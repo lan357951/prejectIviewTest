@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <HelloWorld />
+    <p>edit</p>
   </div>
 </template>
 
